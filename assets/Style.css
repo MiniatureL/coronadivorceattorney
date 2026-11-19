@@ -1,0 +1,181 @@
+td {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #333333;
+	text-align: left;
+	vertical-align: top;
+}
+
+.float {
+	float: left;
+}
+
+.maintable {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text {
+	color: #636363;
+	font-size: 12px;
+	line-height: 23px;
+	text-align: left;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	padding: 2px 30px 0px 35px;
+}
+
+h1 {
+	color: #4a1617;
+	font-size: 19px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal;
+}
+
+h2 {
+	color: #383838;
+	font-size: 14px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-weight: normal;
+}
+
+h3 {
+	color: #383838;
+	font-size: 14px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-weight: normal;
+}
+
+a {
+	color: #7F1416;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #4a1617;
+	text-decoration: underline;
+}
+
+.footersize {
+	width: 900px;
+	margin: 0px auto;
+}
+
+.footer a {
+	color: #ffffff;
+	line-height: 20px;
+	font-size: 12px;
+}
+
+.footer a:hover {
+	color: #ffffff;
+	line-height: 20px;
+	font-size: 12px;
+}
+
+.smaller {
+	color: #7b7b7b;
+	font-size: 12px;
+	line-height: 16px;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.smaller strong {
+	font-weight: 300;
+}
+
+.smaller a {
+	font-family: 'quattrocento_sansregular';
+	font-size: 12px;
+	color: #ffffff;
+}
+
+.smaller a:hover {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 12px;
+	color: #ca4645;
+}
+
+.sdlogo {
+	float: right;
+	margin: 120px 55px 0px 0px;
+}
+
+.white {
+	font-family: 'quattrocento_sansregular';
+	font-size: 12px;
+	color: #ffffff;
+}
+
+.white td {
+	font-size: 12px;
+	font-family: 'quattrocento_sansregular';
+	color: #ca4645;
+}
+
+.leftbg {
+	background-image: url(/web/20150101235112im_/http://www.coronadivorceattorney.com/images/Corona-Divorce-Lawyer_01.jpg);
+	background-position: top right;
+	background-repeat: no-repeat;
+	width: 520px;
+	height: 1000px;
+}
+
+.rightbg {
+	background-image: url(/web/20150101235112im_/http://www.coronadivorceattorney.com/images/Corona-Divorce-Lawyer_03.jpg);
+	background-position: top left;
+	background-repeat: no-repeat;
+	width: 520px;
+	height: 1000px;
+}
+
+.bottom {
+	background-image: url(/web/20150101235112im_/http://www.coronadivorceattorney.com/images/BG_29.jpg);
+	background-color: #000000;
+	background-repeat: repeat-x;
+}
+
+#LeftCTAs {
+	margin-bottom: 28px;
+}
+
+#facebook {
+	height: 25px;
+	width: 25px;
+	position: absolute;
+	margin: 30px 0px 0px 841px;
+}
+
+#twitter {
+	height: 25px;
+	width: 25px;
+	position: absolute;
+	margin: 30px 0px 0px 870px;
+}
+
+#google {
+	height: 25px;
+	width: 25px;
+	position: absolute;
+	margin: 30px 0px 0px 902px;
+}
+
+/*
+     FILE ARCHIVED ON 23:51:12 Jan 01, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:48:01 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.653
+  load_resource: 130.354
+  PetaboxLoader3.resolve: 49.808
+  PetaboxLoader3.datanode: 80.009
+*/
